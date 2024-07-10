@@ -1,0 +1,5502 @@
+{
+    "preloadMapAsset": true,
+    "preloadSceneObjectAsset": true,
+    "preloadSceneCommandAsset": true,
+    "dataLayers": [
+        [
+            null,
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1
+            ],
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            [
+                null,
+                null,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        ],
+        [],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0,
+                null,
+                null,
+                null,
+                0
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0,
+                0,
+                null,
+                null,
+                null,
+                0
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0,
+                0,
+                null,
+                null,
+                null,
+                0
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0,
+                0,
+                null,
+                null,
+                null,
+                0
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0,
+                null,
+                null,
+                null,
+                0
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0,
+                null,
+                null,
+                null,
+                null,
+                0
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0,
+                0
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0,
+                0
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0,
+                0
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0,
+                0
+            ],
+            [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                0,
+                0
+            ]
+        ]
+    ],
+    "sceneObjects": [],
+    "customCommandPages": [],
+    "preLoadAssets": [],
+    "serverInstanceClassName": "ServerScene",
+    "clientInstanceClassName": "ProjectClientScene",
+    "id": 1,
+    "name": "新的场景1",
+    "width": 1200,
+    "height": 720,
+    "LayerDatas": [
+        {
+            "dx": 0,
+            "dy": 0,
+            "scaleX": 0.6677083333333333,
+            "scaleY": 0.6666666666666666,
+            "skewX": 0,
+            "skewY": 0,
+            "xMove": 0.25,
+            "yMove": 0,
+            "prospectsPerX": 1,
+            "prospectsPerY": 1,
+            "xLoop": true,
+            "yLoop": false,
+            "opacity": 1,
+            "blendMode": null,
+            "drawMode": false,
+            "tileData": [],
+            "autoTileDataCache": [],
+            "img": "asset/image/scene/far/Starry_Sky_2.png",
+            "showOnEditor": true,
+            "rotation": 0,
+            "modeType": false,
+            "modeLock": false,
+            "materialData": [
+                {
+                    "materials": []
+                }
+            ]
+        },
+        {
+            "dx": 0,
+            "dy": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "skewX": 0,
+            "skewY": 0,
+            "rotation": 0,
+            "xMove": 0,
+            "yMove": 0,
+            "prospectsPerX": 1,
+            "prospectsPerY": 1,
+            "xLoop": false,
+            "yLoop": false,
+            "opacity": 1,
+            "blendMode": null,
+            "drawMode": true,
+            "tileData": [
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 21,
+                        "x": 48,
+                        "y": 1200
+                    },
+                    {
+                        "texID": 21,
+                        "x": 48,
+                        "y": 912
+                    },
+                    {
+                        "texID": 21,
+                        "x": 48,
+                        "y": 960
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 21,
+                        "x": 0,
+                        "y": 864
+                    },
+                    {
+                        "texID": 21,
+                        "x": 48,
+                        "y": 816
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 48,
+                        "y": 1296
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 21,
+                        "x": 48,
+                        "y": 816
+                    },
+                    {
+                        "texID": 21,
+                        "x": 48,
+                        "y": 864
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 20,
+                        "x": 0,
+                        "y": 48
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 20,
+                        "x": 48,
+                        "y": 96
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 20,
+                        "x": 48,
+                        "y": 96
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 20,
+                        "x": 96,
+                        "y": 48
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 21,
+                        "x": 144,
+                        "y": 432
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 21,
+                        "x": 144,
+                        "y": 816
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 21,
+                        "x": 144,
+                        "y": 1200
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 21,
+                        "x": 144,
+                        "y": 432
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 480
+                    },
+                    {
+                        "texID": 21,
+                        "x": 96,
+                        "y": 912
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 21,
+                        "x": 192,
+                        "y": 144
+                    },
+                    {
+                        "texID": 21,
+                        "x": 144,
+                        "y": 816
+                    },
+                    {
+                        "texID": 21,
+                        "x": 144,
+                        "y": 864
+                    },
+                    {
+                        "texID": 21,
+                        "x": 144,
+                        "y": 912
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 21,
+                        "x": 192,
+                        "y": 864
+                    },
+                    {
+                        "texID": 21,
+                        "x": 192,
+                        "y": 912
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                [
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    },
+                    {
+                        "texID": 1,
+                        "x": 0,
+                        "y": 0
+                    }
+                ]
+            ],
+            "autoTileDataCache": [],
+            "img": null,
+            "modeType": true,
+            "modeLock": false,
+            "showOnEditor": true,
+            "tileTexIDs": {
+                "1": true,
+                "20": true,
+                "21": true
+            }
+        },
+        {
+            "dx": 0,
+            "dy": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "skewX": 0,
+            "skewY": 0,
+            "xMove": 0,
+            "yMove": 0,
+            "prospectsPerX": 1,
+            "prospectsPerY": 1,
+            "xLoop": false,
+            "yLoop": false,
+            "opacity": 1,
+            "blendMode": null,
+            "drawMode": true,
+            "tileData": [
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            "autoTileDataCache": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                [
+                    null,
+                    null,
+                    {
+                        "autoTexID": -3,
+                        "gridInfo": [
+                            1,
+                            10,
+                            100,
+                            1000,
+                            1001001001000
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1111,
+                            1001101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            101,
+                            1111,
+                            101111101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            101,
+                            1111,
+                            101111101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            101,
+                            1111,
+                            101111101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            101,
+                            1111,
+                            101111101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            101,
+                            1111,
+                            101111101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            101,
+                            1111,
+                            101111101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            100,
+                            1100,
+                            101111101001100
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1111,
+                            1001101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            111,
+                            1111,
+                            1111,
+                            1111,
+                            111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1101,
+                            1111,
+                            1111111111011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            100,
+                            1100,
+                            101111101001100
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1111,
+                            1010,
+                            11001011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            1111,
+                            1010,
+                            1111,
+                            1010,
+                            1111101011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            1111,
+                            1010,
+                            1111,
+                            1010,
+                            1111101011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            1111,
+                            1010,
+                            1111,
+                            1010,
+                            1111101011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            1111,
+                            1010,
+                            1111,
+                            1010,
+                            1111101011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            1111,
+                            1010,
+                            1111,
+                            1010,
+                            1111101011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            1111,
+                            1010,
+                            1111,
+                            1010,
+                            1111101011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            1111,
+                            1011,
+                            1111,
+                            1111,
+                            1111101111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1100,
+                            1100,
+                            1111111111001100
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    {
+                        "autoTexID": -37,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1111,
+                            1001101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -37,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            100,
+                            1100,
+                            101111101001100
+                        ]
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1111,
+                            1010,
+                            11001011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            1111,
+                            1011,
+                            1111,
+                            1111,
+                            1111101111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1101,
+                            1111,
+                            1111111111011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            100,
+                            1100,
+                            101111101001100
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    {
+                        "autoTexID": -37,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -37,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1101,
+                            1110,
+                            1111111111011110
+                        ]
+                    },
+                    {
+                        "autoTexID": -37,
+                        "gridInfo": [
+                            101,
+                            1010,
+                            100,
+                            1000,
+                            101101001001000
+                        ]
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1111,
+                            1010,
+                            11001011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            1111,
+                            1010,
+                            1111,
+                            1010,
+                            1111101011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            1111,
+                            1011,
+                            1100,
+                            1100,
+                            1111101111001100
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    {
+                        "autoTexID": -37,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -37,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1100,
+                            1100,
+                            1111111111001100
+                        ]
+                    },
+                    {
+                        "autoTexID": -34,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1111,
+                            1001101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -34,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            101,
+                            1111,
+                            101111101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -34,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            100,
+                            1100,
+                            101111101001100
+                        ]
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1101,
+                            1010,
+                            11001011011010
+                        ]
+                    },
+                    {
+                        "autoTexID": -36,
+                        "gridInfo": [
+                            101,
+                            1010,
+                            100,
+                            1000,
+                            101101001001000
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1,
+                            10,
+                            101,
+                            1010,
+                            1001001011010
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    {
+                        "autoTexID": -37,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -37,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1100,
+                            1100,
+                            1111111111001100
+                        ]
+                    },
+                    {
+                        "autoTexID": -34,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -34,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -34,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1101,
+                            1111,
+                            1111111111011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -34,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            101,
+                            1111,
+                            101111101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -34,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            100,
+                            1100,
+                            101111101001100
+                        ]
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1,
+                            11,
+                            100,
+                            1100,
+                            1001101001100
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    {
+                        "autoTexID": -37,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1111,
+                            1010,
+                            11001011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -37,
+                        "gridInfo": [
+                            1111,
+                            1010,
+                            1100,
+                            1000,
+                            1111101011001000
+                        ]
+                    },
+                    {
+                        "autoTexID": -34,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1111,
+                            1010,
+                            11001011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -34,
+                        "gridInfo": [
+                            1111,
+                            1011,
+                            1111,
+                            1111,
+                            1111101111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -34,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -34,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -34,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1100,
+                            1100,
+                            1111111111001100
+                        ]
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1100,
+                            1100,
+                            11001111001100
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    {
+                        "autoTexID": -38,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1111,
+                            1001101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -38,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            101,
+                            1111,
+                            101111101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -38,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            100,
+                            1100,
+                            101111101001100
+                        ]
+                    },
+                    null,
+                    {
+                        "autoTexID": -34,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1110,
+                            11001111111110
+                        ]
+                    },
+                    {
+                        "autoTexID": -34,
+                        "gridInfo": [
+                            1111,
+                            1010,
+                            1111,
+                            1010,
+                            1111101011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -34,
+                        "gridInfo": [
+                            1111,
+                            1010,
+                            1111,
+                            1010,
+                            1111101011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -34,
+                        "gridInfo": [
+                            1111,
+                            1010,
+                            1100,
+                            1000,
+                            1111101011001000
+                        ]
+                    },
+                    null,
+                    null,
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1111,
+                            1001101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            101,
+                            1111,
+                            101111101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            111,
+                            1111,
+                            1100,
+                            1100,
+                            111111111001100
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    {
+                        "autoTexID": -38,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -38,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -38,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1100,
+                            1100,
+                            1111111111001100
+                        ]
+                    },
+                    null,
+                    {
+                        "autoTexID": -34,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1100,
+                            1000,
+                            11001011001000
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1111,
+                            1001101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            101,
+                            1111,
+                            101111101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            100,
+                            1100,
+                            101111101001100
+                        ]
+                    },
+                    null,
+                    null,
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1100,
+                            1100,
+                            1111111111001100
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    {
+                        "autoTexID": -38,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -38,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -38,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1100,
+                            1100,
+                            1111111111001100
+                        ]
+                    },
+                    {
+                        "autoTexID": -39,
+                        "gridInfo": [
+                            1,
+                            11,
+                            100,
+                            1100,
+                            1001101001100
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1,
+                            10,
+                            101,
+                            1010,
+                            1001001011010
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            111,
+                            1011,
+                            1111,
+                            1111,
+                            111101111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1101,
+                            1111,
+                            1111111111011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            101,
+                            1111,
+                            101111101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            101,
+                            1111,
+                            101111101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            111,
+                            1111,
+                            1111,
+                            1111,
+                            111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1100,
+                            1100,
+                            1111111111001100
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    {
+                        "autoTexID": -38,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1111,
+                            1010,
+                            11001011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -38,
+                        "gridInfo": [
+                            1111,
+                            1011,
+                            1111,
+                            1111,
+                            1111101111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -38,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1100,
+                            1100,
+                            1111111111001100
+                        ]
+                    },
+                    {
+                        "autoTexID": -39,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1101,
+                            1111,
+                            11001111011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -39,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            100,
+                            1100,
+                            101111101001100
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1111,
+                            1010,
+                            11001011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1111,
+                            1011,
+                            1111,
+                            1111,
+                            1111101111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1110,
+                            1111111111111110
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1111,
+                            1010,
+                            1111,
+                            1010,
+                            1111101011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1111,
+                            1010,
+                            1100,
+                            1000,
+                            1111101011001000
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    {
+                        "autoTexID": -38,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -38,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1100,
+                            1100,
+                            1111111111001100
+                        ]
+                    },
+                    {
+                        "autoTexID": -39,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -39,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1101,
+                            1111,
+                            1111111111011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -39,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            100,
+                            1100,
+                            101111101001100
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1110,
+                            1111111111111110
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1111,
+                            1010,
+                            1111,
+                            1010,
+                            1111101011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1111,
+                            1010,
+                            1100,
+                            1000,
+                            1111101011001000
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    {
+                        "autoTexID": -38,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -38,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1100,
+                            1100,
+                            1111111111001100
+                        ]
+                    },
+                    {
+                        "autoTexID": -39,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -39,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -39,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1100,
+                            1100,
+                            1111111111001100
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -35,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1100,
+                            1100,
+                            1111111111001100
+                        ]
+                    }
+                ]
+            ],
+            "img": null,
+            "tileTexIDs": {},
+            "showOnEditor": true,
+            "rotation": 0,
+            "modeType": false,
+            "modeLock": false,
+            "materialData": [
+                {
+                    "materials": []
+                }
+            ]
+        },
+        {
+            "dx": 0,
+            "dy": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "skewX": 0,
+            "skewY": 0,
+            "xMove": 0,
+            "yMove": 0,
+            "prospectsPerX": 1,
+            "prospectsPerY": 1,
+            "xLoop": false,
+            "yLoop": false,
+            "opacity": 1,
+            "blendMode": null,
+            "drawMode": true,
+            "tileData": [
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                [],
+                []
+            ],
+            "autoTileDataCache": [
+                null,
+                null,
+                null,
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1111,
+                            1001101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1111,
+                            1001101011111
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1111,
+                            1001101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1111,
+                            1001101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            111,
+                            1111,
+                            1111,
+                            1111,
+                            111111111111111
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1111,
+                            1001101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1111,
+                            1001101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            111,
+                            1111,
+                            1111,
+                            1111,
+                            111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1110,
+                            1001101011110
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1110,
+                            1001101011110
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            111,
+                            1010,
+                            1111,
+                            1010,
+                            111101011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1011,
+                            1111,
+                            1111,
+                            1111101111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1110,
+                            1001101011110
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1110,
+                            1001101011110
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            111,
+                            1010,
+                            1100,
+                            1000,
+                            111101011001000
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1110,
+                            1001101011110
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1110,
+                            1001101011110
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            111,
+                            1010,
+                            1100,
+                            1000,
+                            111101011001000
+                        ]
+                    },
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1110,
+                            1001101011110
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1110,
+                            1001101011110
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            111,
+                            1010,
+                            1100,
+                            1000,
+                            111101011001000
+                        ]
+                    },
+                    null,
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1111,
+                            1001101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1111,
+                            1001101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            111,
+                            1111,
+                            1100,
+                            1100,
+                            111111111001100
+                        ]
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1,
+                            10,
+                            101,
+                            1010,
+                            1001001011010
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1,
+                            11,
+                            101,
+                            1111,
+                            1001101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            111,
+                            1111,
+                            1111,
+                            1111,
+                            111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1101,
+                            1111,
+                            1111111111011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            101,
+                            1111,
+                            101111101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            101,
+                            1111,
+                            101111101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            101,
+                            1111,
+                            101111101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            101,
+                            1111,
+                            101,
+                            1111,
+                            101111101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            111,
+                            1111,
+                            1111,
+                            1111,
+                            111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1111,
+                            1010,
+                            11001011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1111,
+                            1010,
+                            11001011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1111,
+                            1010,
+                            11001011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1011,
+                            1111,
+                            1111,
+                            1111101111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1110,
+                            1111111111111110
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1010,
+                            1111,
+                            1010,
+                            1111101011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1010,
+                            1111,
+                            1010,
+                            1111101011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1010,
+                            1111,
+                            1010,
+                            1111101011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1010,
+                            1111,
+                            1010,
+                            1111101011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1011,
+                            1111,
+                            1111,
+                            1111101111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1111,
+                            1010,
+                            11001011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1111,
+                            1010,
+                            11001011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1011,
+                            1100,
+                            1100,
+                            1111101111001100
+                        ]
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1101,
+                            1010,
+                            11001011011010
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1101,
+                            1010,
+                            11001011011010
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            101,
+                            1011,
+                            100,
+                            1100,
+                            101101101001100
+                        ]
+                    },
+                    null,
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1101,
+                            1010,
+                            11001011011010
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1101,
+                            1010,
+                            11001011011010
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            101,
+                            1011,
+                            100,
+                            1100,
+                            101101101001100
+                        ]
+                    },
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1101,
+                            1010,
+                            11001011011010
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1101,
+                            1010,
+                            11001011011010
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            101,
+                            1011,
+                            100,
+                            1100,
+                            101101101001100
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            11,
+                            1111,
+                            1111,
+                            11001111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1101,
+                            1010,
+                            11001011011010
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1101,
+                            1010,
+                            11001011011010
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            101,
+                            1011,
+                            101,
+                            1111,
+                            101101101011111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            111,
+                            1111,
+                            1111,
+                            1111,
+                            111111111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1111,
+                            1010,
+                            11001011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1111,
+                            1010,
+                            11001011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1011,
+                            1111,
+                            1111,
+                            1111101111111111
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1111,
+                            1111,
+                            1111,
+                            1111111111111111
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1111,
+                            1010,
+                            11001011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1111,
+                            1010,
+                            11001011111010
+                        ]
+                    },
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            1111,
+                            1011,
+                            1111,
+                            1111,
+                            1111101111111111
+                        ]
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "autoTexID": -20,
+                        "gridInfo": [
+                            11,
+                            10,
+                            1111,
+                            1010,
+                            11001011111010
+                        ]
+                    }
+                ]
+            ],
+            "img": null,
+            "tileTexIDs": {},
+            "showOnEditor": true
+        },
+        {
+            "p": true,
+            "showOnEditor": true,
+            "dx": 0,
+            "dy": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "skewX": 0,
+            "skewY": 0,
+            "rotation": 0,
+            "xMove": 0,
+            "yMove": 0,
+            "prospectsPerX": 1,
+            "prospectsPerY": 1,
+            "xLoop": false,
+            "yLoop": false,
+            "opacity": 1,
+            "blendMode": null,
+            "drawMode": true,
+            "tileData": [],
+            "autoTileDataCache": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                [
+                    null,
+                    null,
+                    {
+                        "autoTexID": -3,
+                        "gridInfo": [
+                            1,
+                            10,
+                            100,
+                            1000,
+                            1001001001000
+                        ]
+                    }
+                ]
+            ],
+            "img": null,
+            "modeType": true,
+            "modeLock": false,
+            "tileTexIDs": {},
+            "materialData": [
+                {
+                    "materials": []
+                }
+            ]
+        },
+        {
+            "dx": 0,
+            "dy": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "skewX": 0,
+            "skewY": 0,
+            "xMove": 0,
+            "yMove": 0,
+            "prospectsPerX": 1,
+            "prospectsPerY": 1,
+            "xLoop": false,
+            "yLoop": false,
+            "opacity": 1,
+            "blendMode": null,
+            "drawMode": true,
+            "tileData": [],
+            "autoTileDataCache": [],
+            "img": null,
+            "tileTexIDs": {},
+            "showOnEditor": true
+        }
+    ],
+    "bgm": "asset/audio/bgm/Village_1.ogg",
+    "bgmVolume": 1,
+    "bgmPitch": 1,
+    "bgs": "",
+    "bgsVolume": 1,
+    "bgsPitch": 1
+}

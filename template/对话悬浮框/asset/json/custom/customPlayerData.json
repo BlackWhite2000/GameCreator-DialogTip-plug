@@ -1,0 +1,19 @@
+{
+    "attrs": {
+        "package": {
+            "varType": 9,
+            "value": [],
+            "copy": false
+        },
+        "gold": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "未命名变量": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        }
+    }
+}

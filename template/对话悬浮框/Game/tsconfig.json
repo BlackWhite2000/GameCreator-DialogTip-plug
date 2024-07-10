@@ -1,0 +1,67 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "declaration": true,
+        "declarationMap": true,
+        "sourceMap": true,
+        "skipLibCheck": true,
+        "composite": true,
+        "allowJs": true,
+        "lib": [
+            "DOM",
+            "ES2015"
+        ],
+        "outFile": "../out/Game.js"
+    },
+    "gamecreatorTSConfig": {
+        "filesAutoManage": true,
+        "referencesAutoManage": false
+    },
+    "files": [
+        "game/custom/CustomCommand1.ts",
+        "game/custom/CustomCommand2.ts",
+        "game/custom/CustomCondition.ts",
+        "game/custom/CustomGameNumber.ts",
+        "game/custom/CustomGameString.ts",
+        "game/project/controller/Controller.ts",
+        "game/project/controller/GamepadControl.ts",
+        "game/project/controller/KeyboardControl.ts",
+        "game/project/controller/MouseControl.ts",
+        "game/project/scene/SceneUtils.ts",
+        "game/project/sceneObject/ProjectSceneObjectBehaviors.ts",
+        "game/project/ui/manager/FocusButtonsManager.ts",
+        "game/project/ui/manager/GUI_Manager.ts",
+        "game/project/ui/manager/GUI_SaveFileManager.ts",
+        "game/project/ui/UIExtend.ts",
+        "game/project/utils/AstarUtils.ts",
+        "game/project/utils/GCGamepad.ts",
+        "game/project/utils/ProjectUtils.ts",
+        "game/project/ProjectGame.ts",
+        "game/GameGate.ts",
+        "game/GCMain.ts",
+        "system/CustomCommandParams.ts",
+        "system/CustomConditionParams.ts",
+        "system/CustomGameNumberParams.ts",
+        "system/CustomGameStringParams.ts",
+        "system/CustomModuleRuntime.ts",
+        "system/DataStructureRuntime.ts",
+        "system/GameAttributeRuntime.ts",
+        "system/MaterialRuntime.ts",
+        "game/project/scene/ProjectClientScene.ts",
+        "game/project/ProjectPlayer.ts",
+        "system/SceneObjectModules.ts",
+        "system/UIRuntime.ts",
+        "game/custom/sceneObjectModules/SoModule_AvatarMaterial.ts",
+        "game/custom/sceneObjectModules/SoModule_Shadow.ts",
+        "game/project/sceneObject/ProjectClientSceneObject.ts",
+        "game/project/ui/GUI_Load.ts",
+        "game/project/ui/GUI_Package.ts",
+        "game/project/ui/GUI_Save.ts",
+        "game/project/ui/GUI_Setting.ts",
+        "game/project/ui/GUI_Shop.ts",
+        "game/project/ui/GUI_VirtualKeyboard.ts"
+    ],
+    "include": [
+        "../GameCreatorLib/**/*.d.ts"
+    ]
+}

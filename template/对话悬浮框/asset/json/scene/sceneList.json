@@ -1,0 +1,41 @@
+{
+    "list": [
+        null,
+        "新的场景1",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ],
+    "node": [
+        {
+            "id": 1,
+            "name": "新的场景1",
+            "children": [],
+            "isOpen": true
+        }
+    ]
+}

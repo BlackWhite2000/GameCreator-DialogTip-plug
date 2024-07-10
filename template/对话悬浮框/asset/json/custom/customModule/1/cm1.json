@@ -1,0 +1,57 @@
+{
+    "attrs": {
+        "icon": {
+            "varType": 1,
+            "value": "asset/image/picture/icon/item/Potion_1.png",
+            "copy": false
+        },
+        "intro": {
+            "varType": 1,
+            "value": "这是一个道具描述，可在玩家设定中设置初始道具携带，或在剧情点设置获取，还可在数据库道具模块中编辑其描述信息和使用后执行的事件。",
+            "copy": false
+        },
+        "sell": {
+            "varType": 0,
+            "value": 12,
+            "copy": false
+        },
+        "isUse": {
+            "varType": 2,
+            "value": true,
+            "copy": false
+        },
+        "isConsumables": {
+            "varType": 2,
+            "value": true,
+            "copy": false
+        },
+        "se": {
+            "varType": 1,
+            "value": "asset/audio/se/item/Use_1.ogg,1,1",
+            "copy": false,
+            "volume": "1",
+            "pitch": "1"
+        },
+        "callEvent": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "描述": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "未命名变量": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "sellEnabled": {
+            "varType": 2,
+            "value": true,
+            "copy": false
+        }
+    },
+    "id": 1
+}

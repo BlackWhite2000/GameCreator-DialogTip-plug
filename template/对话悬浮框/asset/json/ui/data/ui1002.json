@@ -1,0 +1,220 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "42770339857_0.6527414758234169",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "项目背景",
+                "x": 0,
+                "y": 0,
+                "width": 430,
+                "height": 65,
+                "opacity": 1,
+                "blend": 0,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "lock": false,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/control/itemBg.png",
+                "grid9": "15,15,15,15,0",
+                "flip": null,
+                "isTile": false,
+                "pivotType": 0
+            },
+            {
+                "id": "42772344873_0.9169556854334031",
+                "condition": [],
+                "type": "UIString",
+                "name": "itemNum",
+                "x": 361,
+                "y": 23,
+                "width": 51,
+                "height": 18,
+                "opacity": 1,
+                "blend": 0,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": false,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "lock": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "text": "x99",
+                "fontSize": 18,
+                "color": "#ffffff",
+                "bold": true,
+                "italic": false,
+                "smooth": true,
+                "align": 2,
+                "valign": 0,
+                "leading": 0,
+                "letterSpacing": 0,
+                "font": "Source_Han_Sans",
+                "wordWrap": true,
+                "overflow": 0,
+                "shadowEnabled": null,
+                "shadowColor": "#000000",
+                "shadowDx": 1,
+                "shadowDy": 1,
+                "stroke": 0,
+                "strokeColor": "#000000",
+                "onChangeFragEvent": null
+            },
+            {
+                "id": "42770786136_0.6045516702443219",
+                "condition": [],
+                "type": "UIString",
+                "name": "itemName",
+                "x": 84,
+                "y": 23,
+                "width": 194,
+                "height": 18,
+                "opacity": 1,
+                "blend": 0,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": false,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "lock": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "text": "名字",
+                "fontSize": 18,
+                "color": "#ffffff",
+                "bold": true,
+                "italic": false,
+                "smooth": true,
+                "align": 0,
+                "valign": 0,
+                "leading": 0,
+                "letterSpacing": 0,
+                "font": "Source_Han_Sans",
+                "wordWrap": true,
+                "overflow": 0,
+                "shadowEnabled": null,
+                "shadowColor": "#000000",
+                "shadowDx": 1,
+                "shadowDy": 1,
+                "stroke": 0,
+                "strokeColor": "#000000",
+                "onChangeFragEvent": null
+            },
+            {
+                "id": "105663749693_0.4203851319539109",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "道具背景",
+                "x": 14,
+                "y": 6,
+                "width": 54,
+                "height": 54,
+                "opacity": 1,
+                "blend": 0,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "lock": false,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/control/propBg.png",
+                "grid9": "10,10,10,10,0",
+                "flip": null,
+                "isTile": false,
+                "pivotType": 0
+            },
+            {
+                "id": "42770531982_0.8596539318190921",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "icon",
+                "x": 17,
+                "y": 9,
+                "width": 48,
+                "height": 48,
+                "opacity": 1,
+                "blend": 0,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "lock": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/other/BlueFeather.png",
+                "grid9": "3,3,3,3,0",
+                "flip": null,
+                "isTile": false,
+                "pivotType": 0
+            },
+            {
+                "id": "105663571984_0.4630300823082212",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "道具框",
+                "x": 14,
+                "y": 6,
+                "width": 54,
+                "height": 54,
+                "opacity": 1,
+                "blend": 0,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "lock": false,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/control/propFrame.png",
+                "grid9": "10,10,10,10,0",
+                "flip": null,
+                "isTile": false,
+                "pivotType": 0
+            }
+        ]
+    },
+    "instanceClassName": "",
+    "id": 1002,
+    "hasRootCommand": [],
+    "lock": true
+}

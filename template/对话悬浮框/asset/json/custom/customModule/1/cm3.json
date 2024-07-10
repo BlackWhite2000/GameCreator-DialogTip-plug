@@ -1,0 +1,50 @@
+{
+    "attrs": {
+        "icon": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "intro": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "sell": {
+            "varType": 0,
+            "value": 0,
+            "copy": false
+        },
+        "isUse": {
+            "varType": 2,
+            "value": false,
+            "copy": false
+        },
+        "isConsumables": {
+            "varType": 2,
+            "value": false,
+            "copy": false
+        },
+        "se": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "callEvent": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "描述": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "未命名变量": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        }
+    },
+    "id": 3
+}

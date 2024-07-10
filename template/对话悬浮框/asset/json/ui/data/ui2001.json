@@ -1,0 +1,114 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "108684430198_0.5287924717777994",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "进度条背景",
+                "x": 977,
+                "y": 692,
+                "width": 208,
+                "height": 10,
+                "opacity": 1,
+                "blend": 0,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "lock": false,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/control/slider_bg.png",
+                "grid9": "5,10,5,10,0",
+                "flip": false,
+                "isTile": false,
+                "pivotType": 0
+            },
+            {
+                "id": "42285233300_0.010110529082863806",
+                "condition": [],
+                "type": "UISlider",
+                "name": "loadingComp",
+                "x": 980,
+                "y": 695,
+                "width": 202,
+                "height": 4,
+                "opacity": 1,
+                "blend": 0,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": false,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "lock": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image1": "",
+                "bgGrid9": "4,7,4,7,0",
+                "image2": "",
+                "blockGrid9": "0,0,0,0,0",
+                "image3": "asset/image/picture/control/hscroll_bar.png",
+                "blockFillGrid9": "4,7,4,7,0",
+                "step": 0.01,
+                "min": 0,
+                "max": 100,
+                "value": 0,
+                "transverseMode": true,
+                "blockFillMode": 1,
+                "blockPosMode": 0,
+                "fillStrething": false,
+                "isBindingVarID": false,
+                "bindingVarID": -1
+            },
+            {
+                "id": "43899414627_0.9517476473442967",
+                "condition": [],
+                "type": "UIAnimation",
+                "name": "动画",
+                "x": 1081,
+                "y": 654,
+                "width": 192,
+                "height": 192,
+                "opacity": 1,
+                "blend": 0,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "lock": false,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "animationID": 1004,
+                "scaleNumberX": 1,
+                "scaleNumberY": 1,
+                "aniFrame": 1,
+                "playFps": 20,
+                "playType": 2,
+                "showHitEffect": true,
+                "silentMode": false
+            }
+        ]
+    },
+    "id": 2001,
+    "instanceClassName": "",
+    "hasRootCommand": [],
+    "lock": true
+}

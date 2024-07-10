@@ -1,0 +1,84 @@
+{
+    "root": {
+        "children": [
+            {
+                "id": "119250089243_0.3684233164835924",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "图片",
+                "x": 7,
+                "y": 6,
+                "width": 238,
+                "height": 65,
+                "opacity": 1,
+                "blend": 0,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "lock": false,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "image": "asset/image/picture/control/uibitmap.png",
+                "grid9": "14,19,16,16,0",
+                "flip": false,
+                "isTile": false,
+                "pivotType": 0
+            },
+            {
+                "id": "119250122771_0.8677982529648876",
+                "condition": [],
+                "type": "UIString",
+                "name": "time",
+                "x": 24,
+                "y": 24,
+                "width": 205,
+                "height": 30,
+                "opacity": 1,
+                "blend": 0,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": false,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "lock": true,
+                "showOnEditor": true,
+                "hasCommand": [],
+                "isOpen": true,
+                "text": "00:00",
+                "fontSize": 33,
+                "color": "#ffffff",
+                "bold": true,
+                "italic": false,
+                "smooth": false,
+                "align": 1,
+                "valign": 0,
+                "leading": 0,
+                "letterSpacing": 0,
+                "font": "Source_Han_Sans",
+                "wordWrap": true,
+                "overflow": 0,
+                "shadowEnabled": false,
+                "shadowColor": "#000000",
+                "shadowDx": 1,
+                "shadowDy": 1,
+                "stroke": 0,
+                "strokeColor": "#000000"
+            }
+        ]
+    },
+    "id": 13,
+    "hasRootCommand": [],
+    "lock": true,
+    "instanceClassName": ""
+}

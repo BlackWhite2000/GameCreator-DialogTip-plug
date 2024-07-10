@@ -1,0 +1,197 @@
+{
+    "initData": true,
+    "previewMode": false,
+    "dialogBox": {
+        "x": 250,
+        "y": 460,
+        "width": 700,
+        "height": 210,
+        "alpha": 1,
+        "image": "asset/image/picture/control/dialogBgLeft.png",
+        "flip": false,
+        "grid9": "60,35,20,210,0",
+        "showOnEditor": true,
+        "mouseEventEnabledInEditor": true,
+        "materialData": [
+            {
+                "materials": []
+            }
+        ],
+        "index": 1
+    },
+    "headBox": {
+        "x": 249,
+        "y": 1431,
+        "width": 235,
+        "height": 120,
+        "alpha": 1,
+        "locksize": false,
+        "adaptation": true,
+        "previewHeadImg": "asset/image/picture/face/swordman/Normal.png",
+        "flip": false,
+        "perviewMode": 1,
+        "previewStandAvatarID": 1001,
+        "previewStandAvatarExp": 0,
+        "previewAnimationID": 0,
+        "previewUIID": 0,
+        "viewscaleX": 0.8,
+        "viewscaleY": 0.8,
+        "viewFps": 12,
+        "viewPlayOnce": false,
+        "showOnEditor": true,
+        "mouseEventEnabledInEditor": true,
+        "materialData": [
+            {
+                "materials": []
+            }
+        ],
+        "index": 0
+    },
+    "optionBox": {
+        "x": 430,
+        "y": 125,
+        "width": 340,
+        "height": 50,
+        "alpha": 1,
+        "column": 1,
+        "columnSpaceing": 5,
+        "row": 2,
+        "rowSpaceing": 40,
+        "image1": "asset/image/picture/control/optionBtn_normal.png",
+        "grid9img1": "15,70,15,70,0",
+        "image2": "asset/image/picture/control/optionBtn_over.png",
+        "grid9img2": "15,70,15,70,0",
+        "image3": "asset/image/picture/control/optionBtn_over.png",
+        "grid9img3": "15,70,15,70,0",
+        "overSe": "",
+        "overVolume": 1,
+        "overPitch": 1,
+        "clickSe": "",
+        "clickVolume": 1,
+        "clikcPitch": 1,
+        "selectImageURL": "asset/image/picture/control/optionBtnLight.png",
+        "grid9img4": "15,70,15,70,0",
+        "showOnEditor": true,
+        "mouseEventEnabledInEditor": true,
+        "materialData": [
+            {
+                "materials": []
+            }
+        ],
+        "index": 2
+    },
+    "dialog": {
+        "x": 274,
+        "y": 521,
+        "width": 654,
+        "height": 142,
+        "alpha": 1,
+        "fontSize": 24,
+        "color": "#FFFFFF",
+        "bold": true,
+        "italic": false,
+        "smooth": true,
+        "align": 0,
+        "leading": 10,
+        "letterSpacing": 0,
+        "font": "Source_Han_Sans",
+        "shadowEnabled": false,
+        "shadowColor": "#000000",
+        "shadowDx": 1,
+        "shadowDy": 1,
+        "stroke": 0,
+        "strokeColor": "#000000",
+        "showOnEditor": true,
+        "mouseEventEnabledInEditor": true,
+        "wordWrap": true,
+        "materialData": [
+            {
+                "materials": []
+            }
+        ],
+        "index": 3,
+        "valign": 0
+    },
+    "option": {
+        "x": 430,
+        "y": 132,
+        "width": 340,
+        "height": 35,
+        "alpha": 1,
+        "fontSize": 22,
+        "color": "#FFFFFF",
+        "overColor": "#FFFFFF",
+        "clickColor": "#FFFFFF",
+        "bold": true,
+        "italic": false,
+        "smooth": true,
+        "align": 1,
+        "leading": 0,
+        "letterSpacing": 0,
+        "font": "Source_Han_Sans",
+        "valign": 1,
+        "shadowEnabled": false,
+        "shadowColor": "#000000",
+        "shadowDx": 1,
+        "shadowDy": 1,
+        "stroke": 0,
+        "strokeColor": "#000000",
+        "showOnEditor": true,
+        "mouseEventEnabledInEditor": true,
+        "materialData": [
+            {
+                "materials": []
+            }
+        ],
+        "index": 4
+    },
+    "nameBox": {
+        "x": 278,
+        "y": 468,
+        "width": 174,
+        "height": 30,
+        "alpha": 1,
+        "fontSize": 20,
+        "color": "#FFFFFF",
+        "bold": true,
+        "italic": false,
+        "smooth": true,
+        "align": 1,
+        "leading": 0,
+        "letterSpacing": 0,
+        "font": "Source_Han_Sans",
+        "valign": 1,
+        "shadowEnabled": false,
+        "shadowColor": "#000000",
+        "shadowDx": 1,
+        "shadowDy": 1,
+        "stroke": 0,
+        "strokeColor": "#000000",
+        "showOnEditor": true,
+        "mouseEventEnabledInEditor": true,
+        "materialData": [
+            {
+                "materials": []
+            }
+        ],
+        "index": 5
+    },
+    "skipBox": {
+        "x": 909,
+        "y": 639,
+        "width": 0,
+        "height": 1,
+        "alpha": 1,
+        "posIndex": 0,
+        "posX": 0,
+        "posY": 0,
+        "animationID": 1005,
+        "scaleNumber": 1,
+        "playType": 2,
+        "delayTime": 0,
+        "showOnEditor": true,
+        "mouseEventEnabledInEditor": true,
+        "index": 6
+    },
+    "id": 3
+}
