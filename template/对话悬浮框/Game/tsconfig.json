@@ -13,10 +13,6 @@
         ],
         "outFile": "../out/Game.js"
     },
-    "gamecreatorTSConfig": {
-        "filesAutoManage": true,
-        "referencesAutoManage": false
-    },
     "files": [
         "game/custom/CustomCommand1.ts",
         "game/custom/CustomCommand2.ts",

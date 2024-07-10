@@ -405,13 +405,14 @@ class ListItem_13 extends UIListItemData {
  * 14- [BASE]
  */
 class GUI_14 extends GUI_BASE {
-
+   按钮:UIButton;
+   图片:UIBitmap;
    constructor(){
       super(14);
    }
 }
 class ListItem_14 extends UIListItemData {
-
+   图片:string;
 }
 
 /**

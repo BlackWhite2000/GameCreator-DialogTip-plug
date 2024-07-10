@@ -36,6 +36,8 @@ class WorldData {
     static gameDialogColorShowUI_Bind: DataStructure_textColor_GameDialogColorShowUI[]; // = [];
     static gameDialogColorShowUI_Set: number; // = 1; 当对话文本
     static gameDialogColorShowUI_LoopLength: number; // = 50; 拓展组件的数量
+    static gameDialogIsShow: boolean; // = false; 对话框最前方才显示悬浮框
+    static gameDialogWhiteList: number[]; // = [];
 }
 class PlayerData {
     sceneObject: SceneObject;

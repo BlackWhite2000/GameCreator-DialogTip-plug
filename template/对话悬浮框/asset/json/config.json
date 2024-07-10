@@ -6,7 +6,7 @@
             "name": "Source_Han_Sans",
             "path": "asset/font/Source_Han_Sans.ttf",
             "fonttype": "ttf",
-            "size": 7.8
+            "size": 0
         }
     ],
     "EDITOR_MAG_FILTER": 9728,
@@ -62,7 +62,7 @@
             "index": 0,
             "name": "玩家对象",
             "x": 600,
-            "y": 600,
+            "y": 552,
             "z": 0,
             "materialData": [
                 {
@@ -92,7 +92,8 @@
             "scale": 1,
             "playerUID": 0,
             "hasCommand": [],
-            "moduleIDs": []
+            "moduleIDs": [],
+            "hideOriBox": null
         },
         "event": {
             "condition": [],
@@ -169,6 +170,11 @@
             "repeatedTouchEnabled": {
                 "varType": 2,
                 "value": false,
+                "copy": false
+            },
+            "collisionGroup": {
+                "varType": 0,
+                "value": 0,
                 "copy": false
             }
         },

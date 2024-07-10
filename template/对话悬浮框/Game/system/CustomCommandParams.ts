@@ -1095,3 +1095,8 @@ class CustomCommandParams_8002 {
     soType: number; // = 2; 对象
     attr: CustomCompData; // 属性
 }
+/**
+* 自定义指令 15001-
+*/
+class CustomCommandParams_15001 {
+}

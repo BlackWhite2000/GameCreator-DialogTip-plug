@@ -230,7 +230,9 @@
                         "autoTitleWidth": false,
                         "titleWidth": 0,
                         "eyeShow": true,
-                        "lockBlock": false
+                        "lockBlock": false,
+                        "enumEnable_get": true,
+                        "enumEnable_set": true
                     },
                     "attrConditions": [],
                     "y": 45,

@@ -1,6 +1,89 @@
 {
     "root": {
-        "children": []
+        "children": [
+            {
+                "id": "163023060411_0.5406465866479824",
+                "condition": [],
+                "type": "UIButton",
+                "name": "按钮",
+                "x": 374,
+                "y": 180,
+                "width": 100,
+                "height": 50,
+                "opacity": 1,
+                "blend": 0,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "lock": false,
+                "showOnEditor": true,
+                "hasCommand": [
+                    true
+                ],
+                "isOpen": true,
+                "label": "Button",
+                "image1": "asset/image/picture/control/btn_normal.png",
+                "grid9img1": "15,15,15,15,0",
+                "image2": "asset/image/picture/control/btn_over.png",
+                "grid9img2": "15,15,15,15,0",
+                "image3": "asset/image/picture/control/btn_over.png",
+                "grid9img3": "15,15,15,15,0",
+                "fontSize": 24,
+                "color": "#ffffff",
+                "overColor": "#ffffff",
+                "clickColor": "#ffffff",
+                "bold": false,
+                "italic": false,
+                "smooth": false,
+                "align": 1,
+                "valign": 1,
+                "letterSpacing": 0,
+                "font": "Source_Han_Sans",
+                "textDx": 0,
+                "textDy": 0,
+                "textStroke": 0,
+                "textStrokeColor": "#000000"
+            },
+            {
+                "id": "163023061263_0.26974547892800116",
+                "condition": [],
+                "type": "UIBitmap",
+                "name": "图片",
+                "x": 480,
+                "y": 112,
+                "width": 193,
+                "height": 219,
+                "opacity": 1,
+                "blend": 0,
+                "rotation": 0,
+                "show": true,
+                "mouseEventEnabledData": true,
+                "materialData": [
+                    {
+                        "materials": []
+                    }
+                ],
+                "mouseEventEnabledInEditor": true,
+                "lock": false,
+                "showOnEditor": true,
+                "hasCommand": [
+                    true
+                ],
+                "isOpen": true,
+                "image": "asset/image/picture/control/uibitmap.png",
+                "grid9": "0,0,0,0,0",
+                "flip": false,
+                "isTile": false,
+                "pivotType": 0
+            }
+        ]
     },
-    "id": 14
+    "id": 14,
+    "hasRootCommand": []
 }
