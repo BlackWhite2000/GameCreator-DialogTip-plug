@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "packageManager": "pnpm@8.7.0",
+  "scripts": {
+    "build": "node scripts/build_ts.mjs",
+    "build:w": "node scripts/build_ts.mjs -w",
+    "build:all:w": "node scripts/build_allts.mjs -w",
+    "build:public": "node public/config.mjs",
+    "copy": "node scripts/copy_ts.mjs",
+    "delete:ts": "node scripts/delete_ts.mjs",
+    "delete:all": "node scripts/delete_all.mjs"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "typescript": "5.2.2"
+  }
+}
