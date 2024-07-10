@@ -568,6 +568,16 @@
             "varType": 1,
             "value": "",
             "copy": false
+        },
+        "gameDialog_text": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
+        "gameDialog_text1": {
+            "varType": 1,
+            "value": "",
+            "copy": false
         }
     }
 }

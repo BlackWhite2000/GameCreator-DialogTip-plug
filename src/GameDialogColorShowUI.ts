@@ -289,14 +289,7 @@ module OpenAPI {
                 let topLayer = Game.layer.uiLayer.numChildren - 1;
                 let topUI = Game.layer.uiLayer.getChildAt(topLayer);
                 if (!topUI) return false;
-                // 虚拟键盘的情况下
-                if (topUI == GameUI.get(12)) {
-                    if (topLayer >= 1) return Game.layer.uiLayer.getChildAt(topLayer - 1) == ui;
-                    else return false;
-                }
-                else {
-                    return topUI == ui;
-                }
+                return topUI == ui;
             }
         }
     }

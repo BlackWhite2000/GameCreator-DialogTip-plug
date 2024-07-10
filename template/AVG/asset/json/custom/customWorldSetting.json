@@ -1342,10 +1342,49 @@
                         "enumEnable_set": true
                     },
                     "attrConditions": [],
-                    "y": 375,
+                    "y": 377,
                     "x": 383,
                     "width": 200,
                     "height": 55
+                },
+                {
+                    "attr": {
+                        "id": "163049556794_0.14607864636301104",
+                        "varName": "gameDialog_text1",
+                        "varType": 1,
+                        "compData": {
+                            "compType": 32,
+                            "compParam": {}
+                        },
+                        "defaultValue": "",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "",
+                        "alias": "移动端存在虚拟按键界面\\n也请考虑指定虚拟按键界面避免功能失效",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": true,
+                        "titleWidth": 100,
+                        "eyeShow": true,
+                        "lockBlock": false,
+                        "enumEnable_get": true,
+                        "enumEnable_set": true
+                    },
+                    "attrConditions": [],
+                    "y": 457,
+                    "x": 383,
+                    "width": 200,
+                    "height": 30
                 }
             ],
             "blockCondition": [],
