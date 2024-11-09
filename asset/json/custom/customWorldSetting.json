@@ -1900,7 +1900,7 @@
                 },
                 {
                     "attr": {
-                        "id": "163048169756_0.19686447097716386",
+                        "id": "163049183774_0.6512126808839009",
                         "varName": "gameDialogIsShow",
                         "varType": 2,
                         "compData": {
@@ -1939,7 +1939,7 @@
                 },
                 {
                     "attr": {
-                        "id": "163048248056_0.5564344184808867",
+                        "id": "163049183774_0.4045687132923892",
                         "varName": "gameDialogWhiteList",
                         "varType": 0,
                         "compData": {
@@ -1975,10 +1975,88 @@
                     "x": 15,
                     "width": 350,
                     "height": 200
+                },
+                {
+                    "attr": {
+                        "id": "163049362922_0.9317701203294211",
+                        "varName": "gameDialog_text",
+                        "varType": 1,
+                        "compData": {
+                            "compType": 32,
+                            "compParam": {}
+                        },
+                        "defaultValue": "",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "",
+                        "alias": "AVG模板通常会存在对话菜单界面\\n对话菜单界面会比对话框高\\n因此如果开启了对话框最前方才显示悬浮框\\n建议在此指定对话菜单界面",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": true,
+                        "titleWidth": 100,
+                        "eyeShow": true,
+                        "lockBlock": false,
+                        "enumEnable_get": true,
+                        "enumEnable_set": true
+                    },
+                    "attrConditions": [],
+                    "y": 377,
+                    "x": 383,
+                    "width": 200,
+                    "height": 55
+                },
+                {
+                    "attr": {
+                        "id": "163049556794_0.14607864636301104",
+                        "varName": "gameDialog_text1",
+                        "varType": 1,
+                        "compData": {
+                            "compType": 32,
+                            "compParam": {}
+                        },
+                        "defaultValue": "",
+                        "hideMode": false,
+                        "useCommand": false,
+                        "onlyPointTo": false,
+                        "moduleID": 1,
+                        "dataStructureID": 1,
+                        "arrayMode": false,
+                        "arrayLength": 100,
+                        "arrayAllowDelete": false,
+                        "arrayAllowSwap": false,
+                        "arrayAllowUpdate": false,
+                        "accessMode": 1,
+                        "syncMode": 0,
+                        "attrTips": "",
+                        "alias": "移动端存在虚拟按键界面\\n也请考虑指定虚拟按键界面避免功能失效",
+                        "onlyConfig": false,
+                        "preview": false,
+                        "autoTitleWidth": true,
+                        "titleWidth": 100,
+                        "eyeShow": true,
+                        "lockBlock": false,
+                        "enumEnable_get": true,
+                        "enumEnable_set": true
+                    },
+                    "attrConditions": [],
+                    "y": 457,
+                    "x": 383,
+                    "width": 200,
+                    "height": 30
                 }
             ],
             "blockCondition": [],
-            "blockHeight": 585,
+            "blockHeight": 590,
             "autoOrder": true
         }
     ],

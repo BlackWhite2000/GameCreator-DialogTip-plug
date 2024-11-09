@@ -13,6 +13,10 @@
         ],
         "outFile": "../out/Game.js"
     },
+    "gamecreatorTSConfig": {
+        "filesAutoManage": true,
+        "referencesAutoManage": false
+    },
     "files": [
         "game/custom/CustomCommand1.ts",
         "game/custom/CustomCommand2.ts",
@@ -35,6 +39,8 @@
         "game/project/ProjectGame.ts",
         "game/GameGate.ts",
         "game/GCMain.ts",
+        "GCplug/641/OpenAPI.ts",
+        "GCplug/655/GameDialogColorShowUI.ts",
         "system/CustomCommandParams.ts",
         "system/CustomConditionParams.ts",
         "system/CustomGameNumberParams.ts",

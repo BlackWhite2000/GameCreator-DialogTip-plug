@@ -7,7 +7,7 @@
         },
         "setColor": {
             "varType": 1,
-            "value": "#e92424",
+            "value": "#ea3a3a",
             "copy": false
         },
         "setImageData": {
@@ -17,7 +17,7 @@
         },
         "setTextData": {
             "varType": 1,
-            "value": "测试",
+            "value": "",
             "copy": false
         },
         "setDataList": {

@@ -589,13 +589,18 @@
             "value": [],
             "copy": false
         },
+        "碰撞组设定": {
+            "varType": 1,
+            "value": "",
+            "copy": false
+        },
         "gameDialogColorShowUI_Bind": {
             "varType": 9,
             "value": [
                 {
                     "textColor": {
                         "varType": 1,
-                        "value": "#e92424",
+                        "value": "#e91111",
                         "copy": false
                     },
                     "textShowUI": {
@@ -627,9 +632,14 @@
             "value": 50,
             "copy": false
         },
-        "碰撞组设定": {
-            "varType": 1,
-            "value": "",
+        "gameDialogIsShow": {
+            "varType": 2,
+            "value": false,
+            "copy": false
+        },
+        "gameDialogWhiteList": {
+            "varType": 6,
+            "value": [],
             "copy": false
         },
         "gameDialogColorShowUI_Text": {
@@ -637,14 +647,14 @@
             "value": "",
             "copy": false
         },
-        "gameDialogIsShow": {
-            "varType": 2,
-            "value": true,
+        "gameDialog_text": {
+            "varType": 1,
+            "value": "",
             "copy": false
         },
-        "gameDialogWhiteList": {
-            "varType": 6,
-            "value": [],
+        "gameDialog_text1": {
+            "varType": 1,
+            "value": "",
             "copy": false
         }
     }

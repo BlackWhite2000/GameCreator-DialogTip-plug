@@ -190,7 +190,31 @@
                 "",
                 3,
                 -3,
-                "<span style='color:#FfFffF'>c</span><span style='color:#e92424'>测试</span><span style='color:#ffffff'>[.s]</span>",
+                "<span style='color:#FfFffF'>测试\n</span><span style='color:#e91111'>狼王</span><span style='color:#ffffff'>测试</span>",
+                null,
+                1,
+                0,
+                null,
+                {
+                    "id": 1,
+                    "atts": [],
+                    "time": 60,
+                    "transitionMode": null,
+                    "nonTweenType": 0,
+                    "mode": 0
+                },
+                {
+                    "___cmdID": "173155126674_0.6483388655931237"
+                }
+            ],
+            [
+                11,
+                1,
+                null,
+                "",
+                3,
+                -3,
+                "<span style='color:#FfFffF'>c\n</span><span style='color:#ea3a3a'>测试</span><span style='color:#ffffff'>[.s]</span>",
                 null,
                 1,
                 0,
