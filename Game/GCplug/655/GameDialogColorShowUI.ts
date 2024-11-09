@@ -38,13 +38,30 @@ class GameDialogColorShowUI {
     static PLUGIN_MODULE_TYPE_GameDialogColorShowUI: number = 2;
 
     /**
+     * 获得模块数据
+     * @param id 模块id
+     * @param comp 回调
+     * @param length 类别长度 默认16
+     */
+    static getModuleData(id: number, comp: Callback, length = 16) {
+        for (let i = 1; i <= length; i++) {
+            for (let j = 1; j <= GameData.getLength(id, i); j++) {
+                let d = GameData.getModuleData(id, (i - 1) * 1000 + j);
+                if (d && d.name) {
+                    comp.runWith([d]);
+                }
+            }
+        }
+    }
+
+    /**
      * 显示数据
      */
     static showData() {
         if (!this.isInit) {
-            for (let i = 1; i <= GameData.getLength(this.PLUGIN_MODULE_TYPE_GameDialogColorShowUI); i++) {
-                this.dataList.push(GameData.getModuleData(this.PLUGIN_MODULE_TYPE_GameDialogColorShowUI, i));
-            }
+            GameDialogColorShowUI.getModuleData(this.PLUGIN_MODULE_TYPE_GameDialogColorShowUI, Callback.New((data) => {
+                this.dataList.push(data);
+            }, this));
             this.isInit = true;
         }
         this.tips.forEach(
@@ -64,9 +81,14 @@ class GameDialogColorShowUI {
             if (textColorIndex != -1) {
                 let str: UIBitmap = new UIBitmap();
                 // @ts-ignore
-                str.x = v.parent.localToGlobal(new Point(v.x, v.y)).x
+                if (!v.parent) return
                 // @ts-ignore
-                str.y = v.parent.localToGlobal(new Point(v.x, v.y)).y
+                const localToGlobal = v.parent.localToGlobal(new Point(v.x, v.y))
+                if (!localToGlobal) return
+                // @ts-ignore
+                str.x = localToGlobal.x
+                // @ts-ignore
+                str.y = localToGlobal.y
                 let k = new UIString();
                 k.fontSize = v.fontSize;
                 k.letterSpacing = v.letterSpacing

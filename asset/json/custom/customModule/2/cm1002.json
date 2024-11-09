@@ -2,12 +2,12 @@
     "attrs": {
         "setID": {
             "varType": 1,
-            "value": "测试",
+            "value": "狼王",
             "copy": false
         },
         "setColor": {
             "varType": 1,
-            "value": "#ea3a3a",
+            "value": "#e91111",
             "copy": false
         },
         "setImageData": {
@@ -36,5 +36,5 @@
             "copy": false
         }
     },
-    "id": 1
+    "id": 1002
 }

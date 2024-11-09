@@ -1,12 +1,23 @@
 var GameDialogColorShowUI = (function () {
     function GameDialogColorShowUI() {
     }
+    GameDialogColorShowUI.getModuleData = function (id, comp, length) {
+        if (length === void 0) { length = 16; }
+        for (var i = 1; i <= length; i++) {
+            for (var j = 1; j <= GameData.getLength(id, i); j++) {
+                var d = GameData.getModuleData(id, (i - 1) * 1000 + j);
+                if (d && d.name) {
+                    comp.runWith([d]);
+                }
+            }
+        }
+    };
     GameDialogColorShowUI.showData = function () {
         var _this = this;
         if (!this.isInit) {
-            for (var i = 1; i <= GameData.getLength(this.PLUGIN_MODULE_TYPE_GameDialogColorShowUI); i++) {
-                this.dataList.push(GameData.getModuleData(this.PLUGIN_MODULE_TYPE_GameDialogColorShowUI, i));
-            }
+            GameDialogColorShowUI.getModuleData(this.PLUGIN_MODULE_TYPE_GameDialogColorShowUI, Callback.New(function (data) {
+                _this.dataList.push(data);
+            }, this));
             this.isInit = true;
         }
         this.tips.forEach(function (v) { v.dispose(); });
@@ -23,8 +34,13 @@ var GameDialogColorShowUI = (function () {
             var textColorIndex = Number(textColorArr.indexOf(v.color));
             if (textColorIndex != -1) {
                 var str = new UIBitmap();
-                str.x = v.parent.localToGlobal(new Point(v.x, v.y)).x;
-                str.y = v.parent.localToGlobal(new Point(v.x, v.y)).y;
+                if (!v.parent)
+                    return;
+                var localToGlobal = v.parent.localToGlobal(new Point(v.x, v.y));
+                if (!localToGlobal)
+                    return;
+                str.x = localToGlobal.x;
+                str.y = localToGlobal.y;
                 var k = new UIString();
                 k.fontSize = v.fontSize;
                 k.letterSpacing = v.letterSpacing;

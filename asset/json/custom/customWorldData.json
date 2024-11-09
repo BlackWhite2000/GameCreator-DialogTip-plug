@@ -618,6 +618,28 @@
                         "value": "",
                         "copy": false
                     }
+                },
+                {
+                    "textColor": {
+                        "varType": 1,
+                        "value": "#ea3a3a",
+                        "copy": false
+                    },
+                    "textShowUI": {
+                        "varType": 0,
+                        "value": 14,
+                        "copy": false
+                    },
+                    "textShowEvent": {
+                        "varType": 1,
+                        "value": "",
+                        "copy": false
+                    },
+                    "textHideEvent": {
+                        "varType": 1,
+                        "value": "",
+                        "copy": false
+                    }
                 }
             ],
             "copy": false

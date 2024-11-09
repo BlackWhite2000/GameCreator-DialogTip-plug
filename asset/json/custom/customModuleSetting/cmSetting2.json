@@ -309,6 +309,6 @@
         }
     ],
     "varName": "GameDialogColorShowUI",
-    "singleType": true,
+    "singleType": false,
     "name": "对话悬浮框"
 }
